@@ -1,4 +1,4 @@
 # sambhav
 This is my first repository
 <br>
-Author-Sambhav Sharma
+Author-Sambhav (apna college)
